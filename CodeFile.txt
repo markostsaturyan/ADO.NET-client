@@ -1,0 +1,4 @@
+﻿Name:GetPersonData
+Type:Query
+Text:select FirstName,LastName from Person.Person where @firstName=FirstName
+Parametrer compliance:firstName-FirstName
